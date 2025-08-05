@@ -12,12 +12,12 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ## Sections
-- About me\
-- Experience\
-- Projects \
-- Skills \
-- Education\
-- Contact Info\
+- About me
+- Experience
+- Projects
+- Skills
+- Education
+- Contact Info
 - Resume
 
 ## Tools Used
@@ -26,4 +26,6 @@
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
+Copyright (c) 2025
+
+See the [LICENSE](LICENSE) file for license details
